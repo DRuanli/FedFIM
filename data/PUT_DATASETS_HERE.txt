@@ -1,0 +1,3 @@
+Place chess.txt and mushroom.txt here.
+Download from:
+https://www.philippe-fournier-viger.com/spmf/index.php?link=datasets.php
